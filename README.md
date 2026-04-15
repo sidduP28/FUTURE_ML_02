@@ -74,4 +74,5 @@ AutoTriage/
 ## 👤 Author
 
 **Siddartha**
-[LinkedIn](linkedin.com/in/pitchuka-anjani-siddartha-7a88593bb/?skipRedirect=true) · [Kaggle](#https://www.kaggle.com/siddartha4)
+[LinkedIn](linkedin.com/in/pitchuka-anjani-siddartha-7a88593bb/?skipRedirect=true) ·
+[Kaggle](#https://www.kaggle.com/siddartha4)
