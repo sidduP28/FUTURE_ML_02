@@ -23,8 +23,6 @@ It uses **TF-IDF vectorization** paired with **Logistic Regression** and **Rando
 | `ticket_type` | Category label (target 1) |
 | `priority` | Priority label (target 2) |
 
-> Dataset source: [mention Kaggle/synthetic/internal source here]
-
 ---
 
 ## ⚙️ Tech Stack
@@ -73,6 +71,5 @@ AutoTriage/
 
 ## 👤 Author
 
-**Siddartha**
-[LinkedIn](linkedin.com/in/pitchuka-anjani-siddartha-7a88593bb/?skipRedirect=true) ·
-[Kaggle](#https://www.kaggle.com/siddartha4)
+**PITCHUKA ANJANI SIDDARTHA**
+[LinkedIn](linkedin.com/in/pitchuka-anjani-siddartha-7a88593bb/?skipRedirect=true) · [Kaggle](https://www.kaggle.com/siddartha4)
