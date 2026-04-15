@@ -49,26 +49,7 @@ AutoTriage/
 ├── IT_helpdesk_Ticket_Classification.ipynb  # Main notebook
 ├── data/
 │   └── tickets.csv                          # Dataset
-├── models/
-│   └── tfidf_lr_pipeline.pkl               # Saved model (optional)
-├── requirements.txt
 └── README.md
-```
-
----
-
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/AutoTriage.git
-cd AutoTriage
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch notebook
-jupyter notebook IT_helpdesk_Ticket_Classification.ipynb
 ```
 
 ---
